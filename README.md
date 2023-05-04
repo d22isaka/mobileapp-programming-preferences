@@ -31,9 +31,18 @@ function errorCallback(error) {
 }
 ```
 
-Bilder läggs i samma mapp som markdown-filen.
+The Screen of mainActivity
 
-![](android.png)
+![](screenshot1.png)
+
+When pressed the button, SecondActivity appears
+Here you can edit and save the preftext.
+
+![](screenshot2.png)
+
+Back on the mainActivity the new text is set and saved.
+
+![](screenshot3.png)
 
 Läs gärna:
 
