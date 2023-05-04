@@ -30,7 +30,6 @@ public class SecondActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String text = prefText.getText().toString();
-
                 myPreferenceEditor.putString("MyPreferenceName", text);
                 myPreferenceEditor.apply();
             }
