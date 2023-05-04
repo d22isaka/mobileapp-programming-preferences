@@ -33,16 +33,16 @@ function errorCallback(error) {
 
 The Screen of mainActivity
 
-![](screenshot1.png)
+![](Screenshot1.png)
 
 When pressed the button, SecondActivity appears
 Here you can edit and save the preftext.
 
-![](screenshot2.png)
+![](Screenshot2.png)
 
 Back on the mainActivity the new text is set and saved.
 
-![](screenshot3.png)
+![](Screenshot3.png)
 
 Läs gärna:
 
